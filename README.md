@@ -1,6 +1,6 @@
 # Fraud_Detection_using_Machine_Learning
 A machine learning project done under the guidance of DLithe Company.
-#DLithe Internship Certification Program
+<b>DLithe Internship Certification Program<b>
 </br>#Project Topic:
 Fraud Detection using Machine Learning
 </br>#Reference:
